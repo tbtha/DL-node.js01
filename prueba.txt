@@ -1,8 +1,0 @@
-
-            A la fecha: 2021-12-30T01:00:00.000Z
-            Fue realizada cotización con los siguientes datos:
-            Cantidad de pesos a convertir: 1000 pesos
-            Convertido a "dolar" da un total de:
-            $855940 
-            
-            

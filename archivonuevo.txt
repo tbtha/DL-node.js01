@@ -1,8 +1,0 @@
-
-            A la fecha: Thu Sep 03 2020 18:41:00 GMT-0400 (GMT-04:00)
-            Fue realizada cotización con los siguientes datos:
-            Cantidad de pesos a convertir: 50000 pesos
-            Convertido a "dolar" da un total de:
-            $42797000 
-            
-            

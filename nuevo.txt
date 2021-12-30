@@ -1,8 +1,0 @@
-
-            A la fecha: 2021-12-30T02:00:00.000Z
-            Fue realizada cotización con los siguientes datos:
-            Cantidad de pesos a convertir: 9000 pesos
-            Convertido a "euro" da un total de:
-            $8719290 
-            
-            
